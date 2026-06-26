@@ -2,8 +2,10 @@
 
 python 3.11 img-evidence verifier for the hackerrank orchestrate task. given a claim convo, local imgs, user hist, and evidence reqs, it writes `output.csv` with a strict claim decision.
 
-problem stmt: [multi-modal review](https://www.hackerrank.com/contests/hackerrank-orchestrate-june26/challenges/multi-modal-review)
+![200](https://github.com/user-attachments/assets/05f9bcb2-7476-417b-8398-ae9cbbca3d17)
 
+
+problem stmt: [multi-modal review](https://www.hackerrank.com/contests/hackerrank-orchestrate-june26/challenges/multi-modal-review)
 core api:
 
 ```python
@@ -461,4 +463,10 @@ uv run python code/evaluation/main.py --generate --no-audit
 uv run python code/evaluation/main.py --generate --no-audit --trace-prompts
 ```
 
-generated run dirs stay ignored via `.gitignore`.
+
+<p align="center"><strong>with love :</strong></p>
+
+![hatsune-miku-miku](https://github.com/user-attachments/assets/2db5754f-20cd-4456-b636-c43197346976)
+![200w](https://github.com/user-attachments/assets/ea2e0c0c-91b9-4a49-93c2-daabea75c1d8)
+![kasane-teto-teto-kasane](https://github.com/user-attachments/assets/0520bf6e-96a2-4c17-bd04-f6c60b5cc60b)
+![teto-tetoris](https://github.com/user-attachments/assets/569f977f-6486-44e3-94ba-b8b68eb99410)
